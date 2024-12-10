@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871785896835",
+    "project_id": "ninja-brew-crew-d6d32",
+    "storage_bucket": "ninja-brew-crew-d6d32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871785896835:android:09526814b4fd6721dbb4b6",
+        "android_client_info": {
+          "package_name": "com.ruxmur.flutter_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfdtxow9f7Dedf9dC6jCSSaogvjwTOxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
